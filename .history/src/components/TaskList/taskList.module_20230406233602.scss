@@ -1,0 +1,11 @@
+
+.title{
+  margin-bottom: 2rem;
+}
+.task{
+  display: flex;
+  align-items: flex-start;
+  &:not(:last-child){
+    margin-bottom: 1rem;
+  }
+}

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import PushNotification from "./components/PushNotification";
-import TodoList from "./components/TodoList";
+import TodoList from "./components/TodoList/TodoList";
 function App() {
 
   return (

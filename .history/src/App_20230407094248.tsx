@@ -5,8 +5,8 @@ function App() {
 
   return (
     <div className="App">
-      {/* <PushNotification/> */}
-      <TodoList/>
+      <PushNotification/>
+      {/* <TodoList/> */}
     </div>
   );
 }
